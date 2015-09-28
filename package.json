@@ -14,6 +14,18 @@
     "plugin",
     "matched"
   ],
-  "author": "real0n",
-  "license": "ISC"
+  "author": "maquan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Real0n/gulp-pre-combo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Real0n/gulp-delete-file/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "stream": "0.0.2"
+  }
 }
