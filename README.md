@@ -35,6 +35,7 @@ gulp deletefile
 ```
 ### API
 `reg`：is a RegExp Object
+
 `deleteMatch`:if the value is 'true',then the command will delete all the files which match the reg-rule. if it is 'false',then delete all the files which doesn't match the reg-rule.
 
 ### before Usage

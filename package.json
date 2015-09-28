@@ -1,6 +1,6 @@
 {
   "name": "gulp-delete-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gulp plugin to delete matched file based on RegExp Obj",
   "main": "index.js",
   "scripts": {
