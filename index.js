@@ -28,7 +28,9 @@ function gulpDeleteFile(option) {
 				if (err) {
 					throw err;
 				}
-				console.log(path + ' file has deleted!')
+				if(option.console === true){
+					console.log(path + ' file has deleted!')
+				}
 			})
 		}
 
